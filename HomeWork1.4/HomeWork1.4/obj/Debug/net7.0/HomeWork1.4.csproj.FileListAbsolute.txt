@@ -1,0 +1,15 @@
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.csproj.AssemblyReference.cache
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.AssemblyInfoInputs.cache
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.AssemblyInfo.cs
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.csproj.CoreCompileInputs.cache
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/bin/Debug/net7.0/HomeWork1.4
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/bin/Debug/net7.0/HomeWork1.4.deps.json
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/bin/Debug/net7.0/HomeWork1.4.runtimeconfig.json
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/bin/Debug/net7.0/HomeWork1.4.dll
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/bin/Debug/net7.0/HomeWork1.4.pdb
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.dll
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/refint/HomeWork1.4.dll
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.pdb
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/HomeWork1.4.genruntimeconfig.cache
+/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/Debug/net7.0/ref/HomeWork1.4.dll
