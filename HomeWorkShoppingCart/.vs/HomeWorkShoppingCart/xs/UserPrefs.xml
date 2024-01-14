@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{77E7C24B-3CE3-4BB7-9E96-AE381C081298}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWorkShoppingCart/Program.cs">
+    <Files>
+      <File FileName="HomeWorkShoppingCart/Program.cs" Line="7" Column="1" />
+      <File FileName="HomeWorkShoppingCart/Models/Product.cs" Line="13" Column="1" />
+      <File FileName="HomeWorkShoppingCart/Models/ShopCart.cs" Line="25" Column="2" />
+      <File FileName="HomeWorkShoppingCart/Models/Order.cs" Line="14" Column="1" />
+      <File FileName="HomeWorkShoppingCart/Models/Bill.cs" Line="15" Column="34" />
+      <File FileName="HomeWorkShoppingCart/Servise/CartService.cs" Line="40" Column="14" />
+      <File FileName="HomeWorkShoppingCart/Servise/OrderService.cs" Line="56" Column="51" />
+      <File FileName="HomeWorkShoppingCart/Servise/NotificationServise.cs" Line="14" Column="1" />
+      <File FileName="HomeWorkShoppingCart/Repositories/ProductRepositories.cs" Line="41" Column="6" />
+      <File FileName="HomeWorkShoppingCart/Entity/ProductEntity.cs" Line="12" Column="1" />
+      <File FileName="HomeWorkShoppingCart/Repository/CartRepository.cs" Line="26" Column="1" />
+      <File FileName="HomeWorkShoppingCart/Entities/CartEntity.cs" Line="15" Column="3" />
+      <File FileName="HomeWorkShoppingCart/Service/ProductService.cs" Line="36" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWorkShoppingCart" expanded="True">
+            <Node name="HomeWorkShoppingCart" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HomeWorkShoppingCart PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

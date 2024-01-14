@@ -1,0 +1,15 @@
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.csproj.AssemblyReference.cache
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.AssemblyInfoInputs.cache
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.AssemblyInfo.cs
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.csproj.CoreCompileInputs.cache
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/bin/Debug/net7.0/HomeWorkShoppingCart
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/bin/Debug/net7.0/HomeWorkShoppingCart.deps.json
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/bin/Debug/net7.0/HomeWorkShoppingCart.runtimeconfig.json
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/bin/Debug/net7.0/HomeWorkShoppingCart.dll
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/bin/Debug/net7.0/HomeWorkShoppingCart.pdb
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.dll
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/refint/HomeWorkShoppingCart.dll
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.pdb
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/HomeWorkShoppingCart.genruntimeconfig.cache
+/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/Debug/net7.0/ref/HomeWorkShoppingCart.dll
