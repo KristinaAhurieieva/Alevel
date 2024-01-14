@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj": {}
+    "/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/HomeWorkShoppingCart.csproj": {}
   },
   "projects": {
-    "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj": {
+    "/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/HomeWorkShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
-        "projectName": "HomeWork1.4",
-        "projectPath": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
+        "projectUniqueName": "/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/HomeWorkShoppingCart.csproj",
+        "projectName": "HomeWorkShoppingCart",
+        "projectPath": "/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/HomeWorkShoppingCart.csproj",
         "packagesPath": "/Users/kristinaagureeva/.nuget/packages/",
-        "outputPath": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/obj/",
+        "outputPath": "/Users/kristinaagureeva/Projects/HomeWorkShoppingCart/HomeWorkShoppingCart/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kristinaagureeva/.nuget/NuGet/NuGet.Config"
@@ -38,14 +38,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "StyleCop.Analyzers": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.1.118, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
         }
       }
     }

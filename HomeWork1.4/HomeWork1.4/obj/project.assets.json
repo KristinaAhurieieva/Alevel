@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
+      "projectUniqueName": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
       "projectName": "HomeWork1.4",
-      "projectPath": "/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
+      "projectPath": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
       "packagesPath": "/Users/kristinaagureeva/.nuget/packages/",
-      "outputPath": "/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/obj/",
+      "outputPath": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kristinaagureeva/.nuget/NuGet/NuGet.Config"

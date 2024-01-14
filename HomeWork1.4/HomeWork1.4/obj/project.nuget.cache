@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zzQswvndYFy/JDI5YQm6yabzI5P2JeGv3B2EBnOf9XO6wSMNCMZlD5cXqO6NjWxAgvKGFv+7Porst/GfbZmDA==",
+  "dgSpecHash": "bZg7y5j0bqbCKAFj2fgDxMK0qm32IZIBO3jHP7yOYAiju0IPkR8b6lLLCMKZXRXYUMtleqWD881/80UV6sHbCg==",
   "success": true,
-  "projectFilePath": "/Users/kristinaagureeva/Projects/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
+  "projectFilePath": "/Users/kristinaagureeva/Alevel/HomeWork1.4/HomeWork1.4/HomeWork1.4.csproj",
   "expectedPackageFiles": [
     "/Users/kristinaagureeva/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
