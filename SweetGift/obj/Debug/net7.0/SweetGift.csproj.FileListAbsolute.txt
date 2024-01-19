@@ -1,0 +1,15 @@
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.csproj.AssemblyReference.cache
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.AssemblyInfoInputs.cache
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.AssemblyInfo.cs
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.csproj.CoreCompileInputs.cache
+/Users/kristinaagureeva/Projects/SweetGift/bin/Debug/net7.0/SweetGift
+/Users/kristinaagureeva/Projects/SweetGift/bin/Debug/net7.0/SweetGift.deps.json
+/Users/kristinaagureeva/Projects/SweetGift/bin/Debug/net7.0/SweetGift.runtimeconfig.json
+/Users/kristinaagureeva/Projects/SweetGift/bin/Debug/net7.0/SweetGift.dll
+/Users/kristinaagureeva/Projects/SweetGift/bin/Debug/net7.0/SweetGift.pdb
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.dll
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/refint/SweetGift.dll
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.pdb
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/SweetGift.genruntimeconfig.cache
+/Users/kristinaagureeva/Projects/SweetGift/obj/Debug/net7.0/ref/SweetGift.dll
