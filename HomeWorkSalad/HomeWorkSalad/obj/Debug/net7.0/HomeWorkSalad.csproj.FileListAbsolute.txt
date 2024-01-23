@@ -1,0 +1,15 @@
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.csproj.AssemblyReference.cache
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.AssemblyInfoInputs.cache
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.AssemblyInfo.cs
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.csproj.CoreCompileInputs.cache
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/bin/Debug/net7.0/HomeWorkSalad
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/bin/Debug/net7.0/HomeWorkSalad.deps.json
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/bin/Debug/net7.0/HomeWorkSalad.runtimeconfig.json
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/bin/Debug/net7.0/HomeWorkSalad.dll
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/bin/Debug/net7.0/HomeWorkSalad.pdb
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.dll
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/refint/HomeWorkSalad.dll
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.pdb
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/HomeWorkSalad.genruntimeconfig.cache
+/Users/kristinaagureeva/Projects/HomeWorkSalad/HomeWorkSalad/obj/Debug/net7.0/ref/HomeWorkSalad.dll
