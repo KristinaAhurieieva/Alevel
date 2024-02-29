@@ -1,14 +1,17 @@
-﻿using System;
-using System.Xml.Linq;
+﻿
 using HomeWorkDevices.Enums;
 
 namespace HomeWorkDevices.Models
 {
 	public class Microwave : KitchenDevices
     {
-		public Microwave(string name, double powerConsumption) : base(ItemType.Microwave, name, powerConsumption)
+        public bool HasGrill { get; set; }
+        public bool HasTimer { get; set; }
+
+        public Microwave(string name, double powerConsumption, bool hasGrill, bool hasTimer) : base(ItemType.Microwave, name, powerConsumption)
 		{
-           
+            HasGrill = hasGrill;
+            HasTimer = hasTimer;
         }
 	}
 }

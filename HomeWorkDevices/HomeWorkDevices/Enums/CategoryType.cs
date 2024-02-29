@@ -1,7 +1,7 @@
-﻿using System;
+﻿
 namespace HomeWorkDevices.Enums
 {
-	public enum Category
+	public enum CategoryType
 	{
 		Entertainment,
 		Kitchen

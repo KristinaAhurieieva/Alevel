@@ -1,20 +1,20 @@
-﻿using System;
+﻿
 using HomeWorkDevices.Enums;
 namespace HomeWorkDevices.Models
 {
-    public class Devices
+    public class Device
     {
         public Guid Id { get; set; }
         public ItemType ItemType { get; set; }
-        public Category Category { get; set; }
+        public CategoryType CategoryType { get; set; }
         public string Name { get; set; }
         public double PowerConsumption { get; set; }
 
-        public Devices(ItemType itemType, Category category, string name, double powerConsumption)
+        public Device(ItemType itemType, CategoryType categoryType, string name, double powerConsumption)
         {
             this.Id = Guid.NewGuid();
             this.ItemType = itemType;
-            this.Category = category;
+            this.CategoryType = categoryType;
             this.Name = name;
             this.PowerConsumption = powerConsumption;
         }

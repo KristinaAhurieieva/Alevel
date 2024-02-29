@@ -1,55 +1,58 @@
-﻿using System;
-using HomeWorkDevices.Models;
-using HomeWorkDevices.Enums;
-using HomeWorkDevices.Entities;
-using HomeWorkDevices.Repositories;
+﻿using HomeWorkDevices.Models;
 using HomeWorkDevices.Services.Abstractions;
+using HomeWorkDevices.Repositories.Abstractions;
 
 namespace HomeWorkDevices.Services
 {
-    public class DeviceService : IDeviceService
+    public class DeviceService<TDevice> : IDeviceService<TDevice> where TDevice : Device
     {
-        private readonly DeviceRepository deviceRepository;
+        private readonly IDeviceRepository<TDevice> _deviceRepository;
+        private readonly SocketService _socketService;
 
-        public DeviceService(DeviceRepository deviceRepository)
+        public DeviceService(IDeviceRepository<TDevice> deviceRepository, SocketService socketService)
         {
-            this.deviceRepository = deviceRepository;
+            _deviceRepository = deviceRepository;
+            _socketService = socketService;
         }
 
-        public Devices FindDeviceWithMinPower()
+        public TDevice FindDeviceWithMinPower()
         {
-            if (deviceRepository.Devices == null || deviceRepository.Devices.Count == 0)
+            if (!_deviceRepository.GetAllDevices().Any())
             {
-                return null;
+                return default;
             }
 
-            Devices minPowerDevice = deviceRepository.Devices[0];
-
-            foreach (var device in deviceRepository.Devices)
-            {
-                if (device.PowerConsumption < minPowerDevice.PowerConsumption)
-                {
-                    minPowerDevice = device;
-                }
-            }
-
-            return minPowerDevice;
+            return _deviceRepository.GetAllDevices().Aggregate((min, d) => d.PowerConsumption < min.PowerConsumption ? d : min);
         }
 
-        public void SortDevicesByCategory()
+        public List<TDevice> SortByPowerConsumption()
         {
-            deviceRepository.Devices.Sort(new SortingService());
+            return _deviceRepository.GetAllDevices().OrderBy(device => device.PowerConsumption).ToList();
         }
+
         public double CalculateTotalPowerConsumption()
         {
-            double totalPowerConsumption = 0.0;
-
-            foreach (var device in deviceRepository.Devices)
-            {
-                totalPowerConsumption += device.PowerConsumption;
-            }
-
-            return totalPowerConsumption;
+            return _deviceRepository.GetAllDevices().Sum(device => device.PowerConsumption);
         }
+
+        public void AddDevice(TDevice device)
+        {
+            _deviceRepository.AddDevice(device);
+        }
+
+        public void ToggleDevice(bool switchOn)
+        {
+            if (switchOn)
+            {
+                TDevice minPowerDevice = FindDeviceWithMinPower();
+
+                _socketService.ConnectDevice(minPowerDevice);
+            }
+            else
+            {
+                _socketService.DisconnectDevice();
+            }
+        }
+
     }
 }

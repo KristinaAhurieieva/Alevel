@@ -1,12 +1,14 @@
-﻿using System;
+﻿
 using HomeWorkDevices.Enums;
 namespace HomeWorkDevices.Models
 {
 	public class TV : EntertainmentDevices
     {
-		public TV(string name, double powerConsumption) : base(ItemType.TV, name, powerConsumption)
+        public bool IsSmart { get; set; }
+
+        public TV(string name, double powerConsumption, bool isSmart) : base(ItemType.TV, name, powerConsumption)
         {
-         
+            IsSmart = isSmart;
 
         }
        
