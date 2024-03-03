@@ -1,0 +1,15 @@
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/bin/Debug/net7.0/HomeWorkDelegate
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/bin/Debug/net7.0/HomeWorkDelegate.deps.json
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/bin/Debug/net7.0/HomeWorkDelegate.runtimeconfig.json
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/bin/Debug/net7.0/HomeWorkDelegate.dll
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/bin/Debug/net7.0/HomeWorkDelegate.pdb
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.csproj.AssemblyReference.cache
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.AssemblyInfoInputs.cache
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.AssemblyInfo.cs
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.csproj.CoreCompileInputs.cache
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.dll
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/refint/HomeWorkDelegate.dll
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.pdb
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/HomeWorkDelegate.genruntimeconfig.cache
+/Users/kristinaagureeva/Projects/HomeWorkDelegate/HomeWorkDelegate/obj/Debug/net7.0/ref/HomeWorkDelegate.dll
