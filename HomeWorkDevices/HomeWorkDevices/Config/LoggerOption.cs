@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace HomeWorkDevices.Config
 {
 	public class LoggerOption

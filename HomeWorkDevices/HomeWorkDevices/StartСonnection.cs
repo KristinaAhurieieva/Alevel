@@ -1,43 +1,42 @@
-﻿using System;
-using HomeWorkDevices.Services;
-using HomeWorkDevices.Enums;
+﻿using HomeWorkDevices.Enums;
 using HomeWorkDevices.Models;
 using HomeWorkDevices.Services.Abstractions;
-using System.Diagnostics;
-using HomeWorkDevices.Repositories;
+using HomeWorkDevices.Repositories.Abstractions;
 
 namespace HomeWorkDevices
 {
     public class StartConnection
     {
-        private readonly IFlatService _flatService;
-        private readonly IDeviceService _deviceService;
+        private readonly IDeviceService<Device> _deviceService;
         private readonly ILoggerService _loggerService;
-        private readonly DeviceRepository _deviceRepository;
+        private readonly IDeviceRepository<Device> _deviceRepository;
 
-        public StartConnection(IFlatService flatService, IDeviceService deviceService, ILoggerService loggerService, DeviceRepository deviceRepository)
+        public StartConnection(IDeviceService<Device> deviceService, ILoggerService loggerService, IDeviceRepository<Device> deviceRepository)
         {
-            _flatService = flatService;
             _deviceService = deviceService;
             _loggerService = loggerService;
             _deviceRepository = deviceRepository;
+        }
 
-            foreach (var device in deviceRepository.Devices)
+        public void Start()
+        {
+            foreach (var device in _deviceRepository.GetAllDevices())
             {
-                flatService.AddDevice(device);
+                _deviceService.AddDevice(device);
             }
-            double totalPowerConsumption = deviceService.CalculateTotalPowerConsumption();
-            loggerService.Log(LogType.Message, $"Total power consumption: {totalPowerConsumption} Wt");
 
-            flatService.ToggleDevice(true);
-            loggerService.Log(LogType.Message, "Devices are connected");
+            double totalPowerConsumption = _deviceService.CalculateTotalPowerConsumption();
+            _loggerService.Log(LogType.Message, $"Total power consumption: {totalPowerConsumption} Wt");
 
-            Devices minPowerDevice = deviceService.FindDeviceWithMinPower();
-            loggerService.Log(LogType.Message, $"Device with minimum power consumption: {minPowerDevice.Name}");
+            _deviceService.ToggleDevice(true); 
+            _loggerService.Log(LogType.Message, "Device is connected");
 
-            deviceService.SortDevicesByCategory();
+            Device minPowerDevice = _deviceService.FindDeviceWithMinPower();
+            _loggerService.Log(LogType.Message, $"Device with minimum power consumption: {minPowerDevice.Name}");
 
-            loggerService.Log(LogType.Message, "Executed successfully.");
+            _deviceService.SortByPowerConsumption();
+
+            _loggerService.Log(LogType.Message, "Executed successfully.");
         }
     }
 }

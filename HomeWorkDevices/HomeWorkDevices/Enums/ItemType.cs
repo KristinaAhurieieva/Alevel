@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 namespace HomeWorkDevices.Enums
 {
 	public enum ItemType

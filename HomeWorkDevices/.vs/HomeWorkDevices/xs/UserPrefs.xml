@@ -1,4 +1,54 @@
 ﻿<Properties StartupConfiguration="{C9D6535D-A424-4343-94F5-6B502742D7BC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.HomeWorkDevices FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWorkDevices/Program.cs">
+    <Files>
+      <File FileName="HomeWorkDevices/Enums/Category.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/StartСonnection.cs" Line="23" Column="50" />
+      <File FileName="HomeWorkDevices/Program.cs" Line="19" Column="32" />
+      <File FileName="HomeWorkDevices/Repositories/DeviceRepository.cs" Line="26" Column="2" />
+      <File FileName="HomeWorkDevices/Models/Device.cs" Line="25" Column="1" />
+      <File FileName="HomeWorkDevices/Models/EntertainmentDevices.cs" Line="7" Column="44" />
+      <File FileName="HomeWorkDevices/Models/FlatModels.cs" Line="13" Column="38" />
+      <File FileName="HomeWorkDevices/Config/LoggerOption.cs" Line="10" Column="1" />
+      <File FileName="HomeWorkDevices/Entities/FlatEntity.cs" Line="12" Column="1" />
+      <File FileName="HomeWorkDevices/Enums/ItemType.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Enums/LogType.cs" Line="9" Column="6" />
+      <File FileName="HomeWorkDevices/Models/Fridge.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Models/GameConsole.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Models/KitchenDevices.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Models/Laptop.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Models/Microwave.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Models/Oven.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Models/Socket.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Repositories/FlatRepository.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/config.json" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Services/LoggerService.cs" Line="1" Column="1" />
+      <File FileName="HomeWorkDevices/Services/Abstractions/ILoggerService.cs" Line="8" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWorkDevices" expanded="True">
+            <Node name="HomeWorkDevices" expanded="True">
+              <Node name="Config" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Abstractions" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HomeWorkDevices PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

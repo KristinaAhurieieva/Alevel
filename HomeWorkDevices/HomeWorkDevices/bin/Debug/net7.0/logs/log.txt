@@ -1,12 +1,16 @@
-1/30/2024 9:54:05AM: Message: Total power consumption: 370 Wt
-1/30/2024 9:54:05AM: Message: Device with minimum power consumption: Microwave
-1/30/2024 9:54:05AM: Message: Executed successfully.
-1/30/2024 10:01:17AM: Message: Total power consumption: 370 Wt
-1/30/2024 10:01:17AM: Message: Devices are connected:
-1/30/2024 10:01:17AM: Message: Device with minimum power consumption: Microwave
-1/30/2024 10:01:17AM: Message: Sorted devices by category: HomeWorkDevices.Models.Devices, HomeWorkDevices.Models.Devices, HomeWorkDevices.Models.Devices, HomeWorkDevices.Models.Devices, HomeWorkDevices.Models.Devices, HomeWorkDevices.Models.Devices
-1/30/2024 10:01:17AM: Message: Executed successfully.
-1/30/2024 10:01:49AM: Message: Total power consumption: 370 Wt
-1/30/2024 10:01:49AM: Message: Devices are connected:
-1/30/2024 10:01:49AM: Message: Device with minimum power consumption: Microwave
-1/30/2024 10:01:49AM: Message: Executed successfully.
+2/29/2024 2:59:56PM: Message: Total power consumption: 740 Wt
+2/29/2024 2:59:56PM: Message: Devices are connected
+2/29/2024 2:59:56PM: Message: Device with minimum power consumption: Microwave
+2/29/2024 2:59:56PM: Message: Executed successfully.
+2/29/2024 3:23:46PM: Message: Total power consumption: 740 Wt
+2/29/2024 3:23:47PM: Message: Devices are connected
+2/29/2024 3:23:47PM: Message: Device with minimum power consumption: Microwave
+2/29/2024 3:23:47PM: Message: Executed successfully.
+2/29/2024 3:25:40PM: Message: Total power consumption: 740 Wt
+2/29/2024 3:25:40PM: Message: Devices are connected
+2/29/2024 3:25:40PM: Message: Device with minimum power consumption: Microwave
+2/29/2024 3:25:40PM: Message: Executed successfully.
+2/29/2024 3:32:26PM: Message: Total power consumption: 740 Wt
+2/29/2024 3:32:26PM: Message: Device is connected
+2/29/2024 3:32:26PM: Message: Device with minimum power consumption: Microwave
+2/29/2024 3:32:26PM: Message: Executed successfully.

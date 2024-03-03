@@ -42,3 +42,4 @@
 /Users/kristinaagureeva/Projects/HomeWorkDevices/HomeWorkDevices/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
 /Users/kristinaagureeva/Projects/HomeWorkDevices/HomeWorkDevices/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
 /Users/kristinaagureeva/Projects/HomeWorkDevices/HomeWorkDevices/bin/Debug/net7.0/config.json
+/Users/kristinaagureeva/Projects/HomeWorkDevices/HomeWorkDevices/bin/Debug/net7.0/Program.cs

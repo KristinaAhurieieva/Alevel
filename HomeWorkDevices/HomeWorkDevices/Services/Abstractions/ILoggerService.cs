@@ -1,10 +1,11 @@
-﻿using System;
+﻿
 using HomeWorkDevices.Enums;
 namespace HomeWorkDevices.Services.Abstractions
 {
-	public interface ILoggerService
-	{
-		void Log(LogType logType, string message);
-	}
+    public interface ILoggerService
+    {
+        event LogHandler LogEvent;
+        void Log(LogType logType, string message);
+    }
 }
 
