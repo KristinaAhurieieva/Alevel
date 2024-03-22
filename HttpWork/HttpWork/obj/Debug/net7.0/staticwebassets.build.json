@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EZLUKId8x2beJx6XVj3TmXq6OkRgFVLgqO+D9rQyXZw=",
+  "Source": "HttpWork",
+  "BasePath": "_content/HttpWork",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{E51BA279-D0BB-4A8E-9913-74CB947BEF24}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HttpWork PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpWork/Dockerfile">
+    <Files>
+      <File FileName="HttpWork/appsettings.Development.json" Line="12" Column="1" />
+      <File FileName="HttpWork/appsettings.json" Line="6" Column="1" />
+      <File FileName="HttpWork/Program.cs" Line="33" Column="14" />
+      <File FileName="HttpWork/Services/Abstractions/IInternalHttpClientService.cs" Line="12" Column="1" />
+      <File FileName="HttpWork/Services/Abstractions/IAuthorisationService.cs" Line="15" Column="1" />
+      <File FileName="HttpWork/Services/Abstractions/IResourceService.cs" Line="2" Column="21" />
+      <File FileName="HttpWork/Services/Abstractions/IUserService.cs" Line="4" Column="30" />
+      <File FileName="HttpWork/Services/AuthorisationService.cs" Line="13" Column="62" />
+      <File FileName="HttpWork/Services/InternalHttpClientService.cs" Line="8" Column="1" />
+      <File FileName="HttpWork/Services/ResourceService.cs" Line="7" Column="21" />
+      <File FileName="HttpWork/Services/UserService.cs" Line="9" Column="21" />
+      <File FileName="HttpWork/Config/ApiOption.cs" Line="2" Column="11" />
+      <File FileName="HttpWork/Dtos/Requests/RegisterUserRequest.cs" Line="2" Column="11" />
+      <File FileName="HttpWork/Dtos/Requests/UserRequest.cs" Line="8" Column="6" />
+      <File FileName="HttpWork/Dtos/Responses/BaseListResponse.cs" Line="2" Column="11" />
+      <File FileName="HttpWork/Dtos/Responses/BaseResponse.cs" Line="9" Column="6" />
+      <File FileName="HttpWork/Dtos/Responses/RegisterUserResponse.cs" Line="9" Column="6" />
+      <File FileName="HttpWork/Dtos/Responses/UserResponse.cs" Line="10" Column="6" />
+      <File FileName="HttpWork/Dtos/ResourceDto.cs" Line="4" Column="11" />
+      <File FileName="HttpWork/Dtos/PageDto.cs" Line="22" Column="6" />
+      <File FileName="HttpWork/Dtos/SupportDto.cs" Line="8" Column="6" />
+      <File FileName="HttpWork/Dtos/UserDto.cs" Line="17" Column="1" />
+      <File FileName="HttpWork/App.cs" Line="8" Column="11" />
+      <File FileName="HttpWork/Constants.cs" Line="10" Column="1" />
+      <File FileName="HttpWork/docker-compose.yml" Line="47" Column="31" />
+      <File FileName="HttpWork/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HttpWork" expanded="True">
+            <Node name="HttpWork" expanded="True">
+              <Node name="Config" expanded="True" />
+              <Node name="config.json" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
