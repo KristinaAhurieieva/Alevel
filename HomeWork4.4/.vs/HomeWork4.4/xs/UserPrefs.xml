@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{2DD7D309-F7B4-4A00-A8DC-695207E53131}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork4.4/Data/Entities/PetEntity.cs">
+    <Files>
+      <File FileName="HomeWork4.4/Program.cs" Line="16" Column="1" />
+      <File FileName="HomeWork4.4/WeatherForecast.cs" Line="3" Column="14" />
+      <File FileName="HomeWork4.4/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/App.cs" Line="16" Column="10" />
+      <File FileName="HomeWork4.4/Models/Employee.cs" Line="15" Column="6" />
+      <File FileName="HomeWork4.4/Models/ToDoItem.cs" Line="8" Column="6" />
+      <File FileName="HomeWork4.4/Models/Order.cs" Line="11" Column="1" />
+      <File FileName="HomeWork4.4/Models/NotifyType.cs" Line="9" Column="6" />
+      <File FileName="HomeWork4.4/Entities/OrderEntity.cs" Line="13" Column="1" />
+      <File FileName="HomeWork4.4/Entities/OrderItemEntity.cs" Line="11" Column="75" />
+      <File FileName="HomeWork4.4/Entities/CustomerEntity.cs" Line="23" Column="1" />
+      <File FileName="HomeWork4.4/Entities/ProductEntity.cs" Line="8" Column="75" />
+      <File FileName="HomeWork4.4/EntityConfigurations/OrderEntityConfiguration.cs" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/EntityConfigurations/OrderItemEntityConfiguration.cs" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/EntityConfigurations/ProductEntityConfiguration.cs" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/EntityConfigurations/CustomerEntityConfiguration.cs" Line="19" Column="32" />
+      <File FileName="HomeWork4.4/HomeWork4.4.http" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWork4.4" expanded="True">
+            <Node name="HomeWork4.4" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="PetEntity.cs" selected="True" />
+                </Node>
+                <Node name="EntityConfigurations" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="config.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HomeWork4.4 FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
