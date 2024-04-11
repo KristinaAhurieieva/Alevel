@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{2DD7D309-F7B4-4A00-A8DC-695207E53131}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FourModule PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeWork4.4/App.cs">
+    <Files>
+      <File FileName="HomeWork4.4/Program.cs" Line="35" Column="1" />
+      <File FileName="HomeWork4.4/App.cs" Line="27" Column="1" />
+      <File FileName="HomeWork4.4/HomeWork4.4.http" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/Data/EntityConfigurations/PetEntityConfiguration.cs" Line="39" Column="6" />
+      <File FileName="HomeWork4.4/Data/EntityConfigurations/CategoryEntityConfiguration.cs" Line="20" Column="1" />
+      <File FileName="HomeWork4.4/Data/Entities/CategoryEntity.cs" Line="13" Column="1" />
+      <File FileName="HomeWork4.4/Data/Entities/PetEntity.cs" Line="23" Column="1" />
+      <File FileName="HomeWork4.4/Data/Entities/BreedEntity.cs" Line="16" Column="1" />
+      <File FileName="HomeWork4.4/Data/Entities/LocationEntity.cs" Line="14" Column="1" />
+      <File FileName="HomeWork4.4/Data/EntityConfigurations/LocationEntityConfiguration.cs" Line="14" Column="1" />
+      <File FileName="HomeWork4.4/Models/Breed.cs" Line="12" Column="1" />
+      <File FileName="HomeWork4.4/Models/Category.cs" Line="11" Column="1" />
+      <File FileName="HomeWork4.4/Models/Location.cs" Line="11" Column="1" />
+      <File FileName="HomeWork4.4/Models/Pet.cs" Line="18" Column="1" />
+      <File FileName="HomeWork4.4/Data/EntityConfigurations/BreedEntityConfiguration.cs" Line="25" Column="1" />
+      <File FileName="HomeWork4.4/config.json" Line="10" Column="1" />
+      <File FileName="HomeWork4.4/Data/ApplicationDbContext.cs" Line="31" Column="1" />
+      <File FileName="HomeWork4.4/Data/ApplicationDbContextFactory.cs" Line="26" Column="1" />
+      <File FileName="HomeWork4.4/config.Development.json" Line="10" Column="1" />
+      <File FileName="HomeWork4.4/Migrations/20240322074117_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="HomeWork4.4/Migrations/20240322093256_InitialCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeWork4.4" expanded="True">
+            <Node name="HomeWork4.4" expanded="True">
+              <Node name="App.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

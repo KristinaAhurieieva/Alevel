@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>HomeWork4._4</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="System.Threading.Tasks" Version="4.3.0" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Text.Json" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="8.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Data\" />
+    <None Remove="Models\" />
+    <None Remove="Data\Entities\" />
+    <None Remove="Data\EntityConfigurations\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\Abstractions\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Abstractions\" />
+    <None Remove="Dtos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
+    <Folder Include="Data\Entities\" />
+    <Folder Include="Data\EntityConfigurations\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Abstractions\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Abstractions\" />
+    <Folder Include="Dtos\" />
+  </ItemGroup>
+</Project>
