@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>MY WEBSITE</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="logo.png" alt width="30" height="24" class="d-inline block aligin-text-top"> My website </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="pade" href="index.html">Users</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="resources.html">Resources</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container mt-3">
+        <ul class="nav nav-tabs mb-3" role="tablist">
+            <li class="nav-item" role="presentation">
+                <a class="nav-link active" data-bs-toggle="tab" data-bs-target="#tab-home" role="tab" aria-selected="true">User Card</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" href="#tab-profile" data-bs-toggle="tab" data-bs-target="#tab-profile" role="tab" aria-selected="false" tabindex="-1">Add New User</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="dataTabsContent">
+            <div class="tab-pane fade active show" id="tab-home" role="tabpanel">
+    
+                    <div class="row" id="card-row">
+                        <div class="col">
+                            <div class="card">
+                                <img src="4-image.jpg" class="card-img-top" alt width="414" height="310,5">
+                                <div class="card-body">
+                                    <h5 class="card-title">Eve Holt</h5>
+                                    <p class="card-age">Age: 38</p>
+                                    <p class="card-text">eve.holt@reqres.in</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col">
+                            <div class="card">
+                                <img src="5-image.jpg" class="card-img-top" alt width="414" height="310,5">
+                                <div class="card-body">
+                                    <h5 class="card-title">Charles Morris</h5>
+                                    <p class="card-age">Age: 26</p>
+                                    <p class="card-text">charles.morris@reqres.in</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col">
+                            <div class="card">
+                                <img src="1-image.jpg" class="card-img-top" alt width="414" height="310,5">
+                                <div class="card-body">
+                                    <h5 class="card-title">Tracey Ramos</h5>
+                                    <p class="card-age">Age: 30</p>
+                                    <p class="card-text">tracey.ramos@reqres.in</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>  
+        </div>
+        <div>
+            <ul class="pagination justify-content-center fixed-bottom">
+                <li class="page-item "><a class="page-link" href="index.html">Previous</a></li>
+                <li class="page-item"><a class="page-link" href="index.html">1</a></li>
+                <li class="page-item active"><a class="page-link" href="#">2</a></li>
+                <li class="page-item disabled"><a class="page-link" href="#">Next</a></li>
+            </ul>
+         </div>
+         <div class="tab-pane fade" id="tab-profile" role="tabpanel">
+  
+            <form class="needs-validation">
+                <div class="mb-3">
+                    <label for="userName" class="form-label">Name:</label>
+                    <input type="text" class="form-control" id="userName" required>
+                    <div class="invalid-feedback">Please provide a Name</div>
+                </div>
+                <div class="mb-3">
+                    <label for="surname" class="form-label">Surname:</label>
+                    <input type="text" class="form-control" id="userSurname" required>
+                    <div class="invalid-feedback">Please provide Surname</div>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email address:</label>
+                    <input type="email" class="form-control" id="email" required>
+                    <div class="invalid-feedback">Please provide a Email address</div>
+                </div>
+        
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password:</label>
+                    <input type="text" class="form-control" id="password" required>
+                    <div class="invalid-feedback">Please provide a Password</div>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </body>
+    </html>       
