@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{FFAAE10F-10A2-4BDC-BECB-1D012DE9088B}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kristinaagureeva/Projects/eShop/eShop/Program.cs" relfile="eShop/Program.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.eShop PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="eShop/Program.cs">
+    <Files>
+      <File FileName="eShop/WeatherForecast.cs" />
+      <File FileName="eShop/Program.cs" Line="9" Column="1" />
+      <File FileName="eShop/Controllers/WeatherForecastController.cs" />
+      <File FileName="eShop/SummaryType.cs" />
+      <File FileName="eShop/WeatherForecastService.cs" />
+      <File FileName="eShop/appsettings.json" />
+      <File FileName="eShop/Properties/launchSettings.json" />
+      <File FileName="eShop/Dockerfile" Line="14" Column="35" />
+      <File FileName="eShop/docker-compose.yml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShop" expanded="True">
+            <Node name="eShop" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
