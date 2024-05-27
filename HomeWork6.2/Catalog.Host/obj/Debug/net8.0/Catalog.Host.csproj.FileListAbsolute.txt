@@ -1,0 +1,8 @@
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.csproj.AssemblyReference.cache
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.AssemblyInfoInputs.cache
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.AssemblyInfo.cs
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.csproj.CoreCompileInputs.cache
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.MvcApplicationPartsAssemblyInfo.cs
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.MvcApplicationPartsAssemblyInfo.cache
+/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/Debug/net8.0/Catalog.Host.sourcelink.json
