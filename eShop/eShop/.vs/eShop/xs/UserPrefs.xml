@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+    <Files>
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="Dockerfile" Line="16" Column="1" />
+      <File FileName="eShop.http" Line="1" Column="1" />
+      <File FileName="SummaryType.cs" Line="1" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="eShop" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>eShop.csproj</String>
+  </DisabledProjects>
+</Properties>
