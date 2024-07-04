@@ -1,0 +1,14 @@
+a[href^="https"] {
+    color: red;
+}
+.list > li:last-child > a {
+    background-color: green;
+}
+.list + p {
+    font-size: 26px;
+}
+.aboutAuthor{
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}
