@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/Catalog.Host.csproj": {}
+  },
+  "projects": {
+    "/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/Catalog.Host.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/Catalog.Host.csproj",
+        "projectName": "Catalog.Host",
+        "projectPath": "/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/Catalog.Host.csproj",
+        "packagesPath": "/Users/kristinaagureeva/.nuget/packages/",
+        "outputPath": "/Users/kristinaagureeva/Desktop/catalog/eShop/Catalog/Catalog.Host/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kristinaagureeva/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/kristinaagureeva/Desktop/catalog/eShop/Infrastructure/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/kristinaagureeva/Desktop/catalog/eShop/Infrastructure/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kristinaagureeva/Desktop/catalog/eShop/Infrastructure/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kristinaagureeva/Desktop/catalog/eShop/Infrastructure/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/kristinaagureeva/Desktop/catalog/eShop/Infrastructure/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/kristinaagureeva/.nuget/packages/",
+        "outputPath": "/Users/kristinaagureeva/Desktop/catalog/eShop/Infrastructure/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kristinaagureeva/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
